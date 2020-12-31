@@ -3,8 +3,27 @@
 </em></p>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+
+## I’m a Student and a freelancer !
+- 👨‍💻 An AI enthusiast.
+- 🌱 As an aspiring developer i love to learn about new technologies.
+- ⚡ I love computer games , cricket other than coding.
+
+## 🛠️ **Languages & Tools:**
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-navy.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Python](https://img.shields.io/badge/python%20-yellow.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 
-<img align="left" alt="ChirantanTech stats" src="https://github-readme-stats.vercel.app/api?username=ChirantanTech&show_icons=true&hide_border=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirantanTech&show_icons=true&hide_border=true&theme=radical" />
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+
+<img align="left" alt="ChirantanTech stats" src="https://github-readme-stats.vercel.app/api?username=ChirantanTech&show_icons=true&hide_border=true&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirantanTech&layout=compact&show_icons=true&hide_border=true&theme=blue-green" />
