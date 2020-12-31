@@ -31,4 +31,4 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 ## **My GitHub Stats**
 
 <img align="left" alt="ChirantanTech stats" src="https://github-readme-stats.vercel.app/api?username=ChirantanTech&show_icons=true&hide_border=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirantanTech&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirantanTech&show_icons=true&hide_border=true&theme=radical" />
