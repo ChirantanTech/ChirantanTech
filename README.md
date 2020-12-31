@@ -16,6 +16,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-navy.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/python%20-yellow.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django%20-black.svg?&style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/php%20-indigo.svg?&style=for-the-badge&logo=php&logoColor=white)
 
 
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
