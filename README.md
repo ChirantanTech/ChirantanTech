@@ -1,4 +1,6 @@
-<h1> Hi there, Chirantan these side </h1> 
+<h1> Hi there 👋 , Chirantan these side </h1>
+<p><em>CS Student<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Love to play with codes and discover new things.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
 
