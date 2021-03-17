@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/python%20-yellow.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-black.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php%20-indigo.svg?&style=for-the-badge&logo=php&logoColor=white)
-
+![Java](https://img.shields.io/badge/java%20-gold.svg?&style=for-the-badge&logo=java&logoColor=red)
 
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
